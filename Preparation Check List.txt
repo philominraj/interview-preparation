@@ -1,0 +1,20 @@
+1. Difference between NoSQL and SQL
+2. Difference between 'Azure SQL DB' and 'Azure SQL MI'
+3. Difference between RabbitMQ and Apache Kafka
+4. Check how to identify the memory leak in Dynatrace - Using Heapdump
+5. Check how Observability pattern works with Websocket endpint to push the status
+6. What is the LST/Performance testing tool used in Rabo?  JMeter, JProfile and JConsole
+7. What is the Pen/Security testing tool used in Rabo? Fortify/ Checkmarx as the static security testing tool
+8. How to manage the transaction history using Spring Data JPA?
+9. Refer SOLID , 12 Factor App principles, MSA Patterns and SAGA
+10.Refer MicroProfile
+11. Pitfalls of MSA
+12. How to configure ssl/tls in RabitTemplate and Kafka Template
+
+
+9. Check how TLS Asymetric encription works with certificate - will discuss with Aishwarya tomorrow
+10.Check with TLS Encryption on authenticating the consumer of Kafka Cluster
+11.What is the implementation Rabo uses for OAuth2.0?   
+12.Is the RAAS an extension of JAAS mechanisam?
+13.How does the SSO integration happens?
+14.How does the x.509 Digital certificate online validation happen?
