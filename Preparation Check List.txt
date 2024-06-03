@@ -18,3 +18,9 @@
 12.Is the RAAS an extension of JAAS mechanisam?
 13.How does the SSO integration happens?
 14.How does the x.509 Digital certificate online validation happen?
+
+
+
+https://www.javaguides.net/2023/08/spring-data-jpa-dto-projection-example.html?m=1
+
+https://www.baeldung.com/spring-data-jpa-projections
